@@ -6,7 +6,7 @@ An **EfficientNet-B3 Ensemble Model** is trained on a large Kaggle dataset with 
 ---
 
 ## 🚀 Live Demo  
-🔗 Streamlit App: https://diabetes-retinopathy-by-aman-verma.streamlit.app/
+🔗 Streamlit App: https://diabetic-retinopathy-by-aman-verma.streamlit.app/
 
 ---
 
